@@ -10,12 +10,12 @@ The Store owners want to monitor and analyze sales performance and market trends
 **QUESTIONS (KPI)**
 
 The dashboard tracks several Key Performance Indicators (KPIs) to answer critical business questions: 
-•	Overall Performance: What are the total revenue and units sold?
-•	Trends: How is revenue trending monthly?
-•	Product Performance: Which products are top sellers (e.g., Nike Dunk Low)?
-•	Market Share: Which brands are dominant in the market?
-•	Customer Demographics: What is the gender distribution of customers?
-•	Regional Performance: Where are sales highest geographically?
+1	Overall Performance: What are the total revenue and units sold?
+2	Trends: How is revenue trending monthly?
+3	Product Performance: Which products are top sellers (e.g., Nike Dunk Low)?
+4	Market Share: Which brands are dominant in the market?
+5	Customer Demographics: What is the gender distribution of customers?
+6	Regional Performance: Where are sales highest geographically?
 
 
 **PROCESS**
