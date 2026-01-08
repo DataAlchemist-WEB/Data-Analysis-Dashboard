@@ -1,4 +1,4 @@
-**Streetwear-Sales-Performance and Revenue Analysis (Interactive Dashboard creation using MS Excel)**
+**Streetwear Sales Performance and Revenue Analysis (Interactive Dashboard creation using MS Excel)**
 
 **PROJECT OBJECTIVE**
 
