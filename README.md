@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed  a comprehensive project in Excel, creating tables and a dashboard to analyze the data. This process involved several stages, including data cleaning and data visualization 
+#Streetwear Sales Performance and Revenue Analysis (Interactive Dashboard creation using MS Excel)
+#PROJECT OBJECTIVE
+The Store owners want to monitor and analyze sales performance and market trends for a retail or e-commerce business specializing in footwear and sportswear. The data helps in identifying growth opportunities and optimizing underperforming areas. 
