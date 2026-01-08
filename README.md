@@ -10,6 +10,7 @@ The Store owners want to monitor and analyze sales performance and market trends
 **QUESTIONS (KPI)**
 
 The dashboard tracks several Key Performance Indicators (KPIs) to answer critical business questions: 
+
 1	Overall Performance: What are the total revenue and units sold?
 
 2	Trends: How is revenue trending monthly?
@@ -24,15 +25,19 @@ The dashboard tracks several Key Performance Indicators (KPIs) to answer critica
 
 
 **PROCESS**
-The image displays the final data visualization step of a data analysis process, which typically involves:
-1.	Requirement Gathering: Defining goals and KPIs (the user request is an example of this).
-2.	Data Collection & Cleaning: Sourcing raw data from various systems.
-3.	Analysis & Modeling: Creating metrics and insights.
-4.	Dashboard Creation: Visualizing the data using a Business Intelligence (BI) tool like Power BI or Excel. 
+1.	Requirement Gathering: Defining goals and KPIs
+2.	
+3.	Data Collection & Cleaning: Sourcing raw data from various systems.
+4.	
+5.	Analysis & Modeling: Creating metrics and insights.
+6.	
+7.	Dashboard Creation: Visualizing the data using a Business Intelligence (BI) tool like Power BI or Excel. 
 
 
 **DASHBOARD PROJECT INSIGHT**
 
 •	Strong Performance in Specific Products/Brands: The "Nike Dunk Low" and "Jordan 1 High" are top products, and Nike and Supreme hold significant brand dominance.
+
 •	Seasonal Trends: Sales fluctuate throughout the year, with a dip around April/May before rising in summer months.
+
 •	Diverse Geographic Reach: Sales are global with significant revenue indicated in multiple regions.
