@@ -24,11 +24,11 @@ The dashboard tracks several Key Performance Indicators (KPIs) to answer critica
 
 **PROCESS**
 1.	Requirement Gathering: Defining goals and KPIs
-2.	
+  
 3.	Data Collection & Cleaning: Sourcing raw data from various systems.
-4.	
+  
 5.	Analysis & Modeling: Creating metrics and insights.
-6.	
+  
 7.	Dashboard Creation: Visualizing the data using a Business Intelligence (BI) tool like Power BI or Excel. 
 
 
